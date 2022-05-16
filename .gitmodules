@@ -1,0 +1,3 @@
+[submodule "Private_TestProject1.git/Newfolder/Private_TestProject1"]
+	path = Private_TestProject1.git/Newfolder/Private_TestProject1
+	url = https://github.com/LITER96/Private_TestProject1
